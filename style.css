@@ -82,7 +82,7 @@ html, body {
         opacity: 0;
         transition: opacity 10s ease-in-out;
         
-        animation: fadeIn 3s forwards;
+        animation: fadeIn 2s forwards;
 }
 .sth {
         opacity: 0;
