@@ -5,6 +5,8 @@ html, body {
             background-size: cover; 
             background-position: center;
         width: 100%
+        margin:0
+        padding:0
         }
         button {
             border-radius: 50px;
@@ -92,12 +94,13 @@ html, body {
 }
 
 .fade {
-        opacity: 0;
-        transition: opacity 10s ease-in-out;
-        max-width: 100%;
-        height: auto;
-        display: block;
-
+    opacity: 0;
+    transition: opacity 10s ease-in-out;
+    width: 100%;
+    height: auto;
+    display: block;
+    animation: fadeIn 2.5s forwards;
+}
         
         
 }
