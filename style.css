@@ -93,16 +93,14 @@ html, body {
         animation: fadeIn 4.9s forwards;
 }
 
-.fade {
-    opacity: 0;
-    transition: opacity 10s ease-in-out;
-    width: 100%;
-    height: auto;
-    display: block;
-    animation: fadeIn 2.5s forwards;
+
 }
         
+.fade {
+        opacity: 0;
+        transition: opacity 10s ease-in-out;
         
+        animation: fadeIn 2.5s forwards;
 }
 
 
