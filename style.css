@@ -96,6 +96,7 @@ html, body {
 .fade {
     opacity: 0;
     transition: opacity 10s ease-in-out;
+ease-in-out:
     width: 100%;
     height: auto;
     display: block;
