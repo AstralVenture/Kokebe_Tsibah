@@ -45,7 +45,7 @@ html, body {
         }
         p,li {
             color: yellow;
-      background-color: rgba(0, 0, 0, 0.6);
+      background-color: rgba(0, 0, 0, 0.9);
       padding: 5px;
       display: inline-block;
       line-height: 1.6;
