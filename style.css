@@ -94,19 +94,14 @@ html, body {
 .fade {
         opacity: 0;
         transition: opacity 10s ease-in-out;
-        max-width: 100%;
+        max-width: 100vw;
         height: auto;
         display: block;
 }
         animation: fadeIn 2.5s forwards;
         
 }
-img.fade {
-        width: 100vw;
-        max-width: 100%;
-        height: auto;
-        display: block;
-}
+
 
 @keyframes fadeIn {
         from {opacity:0; }
